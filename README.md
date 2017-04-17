@@ -28,7 +28,7 @@ Title of presentation:Voting
 
 What were aspects of the presentation that you liked: using shiny app to look at spacial feature is really good. 
 
-What were aspects of the presentations for which you had concerns or questions:
+What were aspects of the presentations for which you had concerns or questions: more visualizations, besides interactive app. and maybe using different model to compare. 
 
 
 
