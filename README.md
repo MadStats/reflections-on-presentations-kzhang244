@@ -40,9 +40,9 @@ What were aspects of the presentations for which you had concerns or questions: 
 
 Title of presentation:Yelp
 
-What were aspects of the presentation that you liked: 
+What were aspects of the presentation that you liked: the focus of this project is clear and interesting. 
 
-What were aspects of the presentations for which you had concerns or questions:
+What were aspects of the presentations for which you had concerns or questions: local regression method needs more consideration. the interpretation of the model is important but i would wonder how reliable the interpration is, like model diagnostics. 
 
 
 
