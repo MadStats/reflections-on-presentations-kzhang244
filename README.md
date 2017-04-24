@@ -50,13 +50,46 @@ What were aspects of the presentations for which you had concerns or questions: 
 
 
 
+Title of presentation:Gaming
 
-Title of presentation:Crime
+What were aspects of the presentation that you liked: 
 
-What were aspects of the presentation that you liked: the way of combining the data set, using grid. Most of Visualiztions are clear and insightful.
-
-What were aspects of the presentations for which you had concerns or questions: the grid size needs more consideration. maybe include the part of how to determine grid size. 
-
-
+What were aspects of the presentations for which you had concerns or questions:
+Don't quite familar with the game
 
 
+
+Title of presentation:H1B (our group)
+
+What were aspects of the presentation that you liked: 
+What were aspects of the presentations for which you had concerns or questions:
+
+
+
+
+
+Title of presentation:Traffic
+
+What were aspects of the presentation that you liked:
+model diagnostics is sufficient.
+What were aspects of the presentations for which you had concerns or questions: 
+The thesis could be more argumentative.
+
+
+
+
+
+Title of presentation:songs
+
+What were aspects of the presentation that you liked: 
+Sentimental analysis with song is interesting.
+What were aspects of the presentations for which you had concerns or questions:
+need more clearity in the presentation. 
+
+
+
+
+Title of presentation:NBA
+
+What were aspects of the presentation that you liked: 
+What were aspects of the presentations for which you had concerns or questions:
