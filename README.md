@@ -73,7 +73,7 @@ Title of presentation:Traffic
 What were aspects of the presentation that you liked:
 model diagnostics is sufficient.
 What were aspects of the presentations for which you had concerns or questions: 
-The thesis could be more argumentative.
+The thesis could be more argumentative. overploting
 
 
 
@@ -84,7 +84,7 @@ Title of presentation:songs
 What were aspects of the presentation that you liked: 
 Sentimental analysis with song is interesting.
 What were aspects of the presentations for which you had concerns or questions:
-need more clearity in the presentation. 
+need more clearity in the presentation. What is thesis.
 
 
 
@@ -92,4 +92,18 @@ need more clearity in the presentation.
 Title of presentation:NBA
 
 What were aspects of the presentation that you liked: 
+heat map of position is informative.
 What were aspects of the presentations for which you had concerns or questions:
+The focus could be more clear.
+
+
+Title of presentation:Terrorism
+
+What were aspects of the presentation that you liked: 
+Visualization is cool. interesting findings
+
+What were aspects of the presentations for which you had concerns or questions:
+
+
+
+
